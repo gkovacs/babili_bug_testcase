@@ -1,0 +1,1 @@
+module.exports = require("npm:file-type@3.9.0/index");

@@ -1,0 +1,1 @@
+module.exports = require("npm:icojs-min@0.5.0/index.js");

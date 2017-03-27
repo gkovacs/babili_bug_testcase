@@ -1,0 +1,1 @@
+module.exports = require("npm:aws4@1.6.0/aws4.js");

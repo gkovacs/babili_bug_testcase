@@ -1,0 +1,1 @@
+module.exports = require("npm:parse-bmfont-xml@1.1.3/lib/browser.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:xmlbuilder@4.2.1/lib/index");

@@ -1,0 +1,1 @@
+module.exports = require("npm:exif-parser@0.1.9/index");

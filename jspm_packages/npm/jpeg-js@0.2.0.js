@@ -1,0 +1,1 @@
+module.exports = require("npm:jpeg-js@0.2.0/index.js");

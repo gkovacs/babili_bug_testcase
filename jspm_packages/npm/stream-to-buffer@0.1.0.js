@@ -1,0 +1,1 @@
+module.exports = require("npm:stream-to-buffer@0.1.0/index");

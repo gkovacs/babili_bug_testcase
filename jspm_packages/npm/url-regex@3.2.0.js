@@ -1,0 +1,1 @@
+module.exports = require("npm:url-regex@3.2.0/index");

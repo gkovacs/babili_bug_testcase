@@ -1,0 +1,1 @@
+module.exports = require("npm:bmp-js@0.0.2/index.js");

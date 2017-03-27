@@ -1,0 +1,1 @@
+module.exports = require("npm:read-chunk@1.0.1/index");
